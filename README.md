@@ -25,13 +25,13 @@ sudo pip3 uninstall RPi_I2C_driver  #Python3
   
 ## Connection 
   
-### Using 3.3V LCD  
+Using 3.3V LCD  
   
-![3.3V I2C LCD](./circuit_image/3.3V_I2C_LCD_60.png)  
+![3.3V I2C LCD](./circuit_image/3.3V_I2C_LCD_50.png)  
   
-### Using 5V LCD with Logic Level converter (bidirection type)  
+Using 5V LCD with Logic Level converter (bidirection type)  
   
-![5V I2C LCD Logic Level converter](./circuit_image/5V_I2C_LCD_Logic_Level_converter_60.png)  
+![5V I2C LCD Logic Level converter](./circuit_image/5V_I2C_LCD_Logic_Level_converter_50.png)  
   
  
  
